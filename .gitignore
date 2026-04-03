@@ -1,0 +1,4 @@
+.mcp.json
+.env
+.env.example
+gen-lang*.json
